@@ -3,20 +3,32 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Alex&#39;s files</title>
-    <link>http://www.github.com/aok1425/podcasts</link>
+    <link>https://github.com/aok1425/podcasts/raw/master/</link>
     <description>A place to access my audio files via iOS Podcast app</description>
     <itunes:summary>A place to access my audio files via iOS Podcast app</itunes:summary>
+    
+    
+    
+    
+    
+    
+  
+  
 	<generator>Dropcaster 0.0.8</generator>
+	
+  
     <item>
-      <title>alison wonderland - i want you.mp3</title>
+      <title>Susan Athey Machine Learning and Causal Inference for Policy Evaluation.mp3</title>
       <itunes:author></itunes:author>
     
       <itunes:image href=""/>
-      <enclosure url="https://github.com/aok1425/podcasts/raw/master/alison%20wonderland%20-%20i%20want%20you.mp3" length="3761213" type="audio/mp3"/>
-      <link>https://github.com/aok1425/podcasts/raw/master/alison%20wonderland%20-%20i%20want%20you.mp3</link>
-      <guid isPermaLink="false">7069c0f720e1e6b44e89ec7d337dda20c8ba7769</guid>
-      <pubDate>Sun, 29 Oct 2017 10:06:09 -0700</pubDate>
-      <itunes:duration>235</itunes:duration>
+      <enclosure url="https://github.com/aok1425/podcasts/raw/master/Susan%20Athey%20Machine%20Learning%20and%20Causal%20Inference%20for%20Policy%20Evaluation.mp3" length="26198565" type="audio/mp3"/>
+      <link>https://github.com/aok1425/podcasts/raw/master/Susan%20Athey%20Machine%20Learning%20and%20Causal%20Inference%20for%20Policy%20Evaluation.mp3</link>
+      <guid isPermaLink="false">5989178c451e4828f3001a39b3034be41fa2ab11</guid>
+      <pubDate>Wed, 21 Oct 2015 05:18:42 -0700</pubDate>
+      <itunes:duration>2754</itunes:duration>
+    
     </item>
+  
   </channel>
 </rss>
