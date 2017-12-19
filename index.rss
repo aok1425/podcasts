@@ -18,6 +18,32 @@
 	
   
     <item>
+      <title>Evan Miller - Understanding Statistics with Visualization-TzJMFxj7GRI.mp3</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="https://github.com/aok1425/podcasts/raw/master/Evan%20Miller%20-%20Understanding%20Statistics%20with%20Visualization-TzJMFxj7GRI.mp3" length="38297013" type="audio/mp3"/>
+      <link>https://github.com/aok1425/podcasts/raw/master/Evan%20Miller%20-%20Understanding%20Statistics%20with%20Visualization-TzJMFxj7GRI.mp3</link>
+      <guid isPermaLink="false">04d6a326939f40bda596f194ed4d08d9e2e93cf5</guid>
+      <pubDate>Thu, 07 Jan 2016 23:47:26 -0800</pubDate>
+      <itunes:duration>2580</itunes:duration>
+    
+    </item>
+  
+    <item>
+      <title>Steve Howard - Understanding A_B Testing with Monte Carlo Simulation-9HsqoIquAL8.mp3</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="https://github.com/aok1425/podcasts/raw/master/Steve%20Howard%20-%20Understanding%20A_B%20Testing%20with%20Monte%20Carlo%20Simulation-9HsqoIquAL8.mp3" length="48205221" type="audio/mp3"/>
+      <link>https://github.com/aok1425/podcasts/raw/master/Steve%20Howard%20-%20Understanding%20A_B%20Testing%20with%20Monte%20Carlo%20Simulation-9HsqoIquAL8.mp3</link>
+      <guid isPermaLink="false">fc7aa710bd6230cb23facc6df81fc9a1b9e28d06</guid>
+      <pubDate>Wed, 30 Dec 2015 21:29:13 -0800</pubDate>
+      <itunes:duration>3133</itunes:duration>
+    
+    </item>
+  
+    <item>
       <title>Susan Athey Machine Learning and Causal Inference for Policy Evaluation.mp3</title>
       <itunes:author></itunes:author>
     
@@ -27,6 +53,32 @@
       <guid isPermaLink="false">5989178c451e4828f3001a39b3034be41fa2ab11</guid>
       <pubDate>Wed, 21 Oct 2015 05:18:42 -0700</pubDate>
       <itunes:duration>2754</itunes:duration>
+    
+    </item>
+  
+    <item>
+      <title>Experiments in Action by Airbnb - FutureStack14-THBtcS7Wwss.mp3</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="https://github.com/aok1425/podcasts/raw/master/Experiments%20in%20Action%20by%20Airbnb%20-%20FutureStack14-THBtcS7Wwss.mp3" length="17821794" type="audio/mp3"/>
+      <link>https://github.com/aok1425/podcasts/raw/master/Experiments%20in%20Action%20by%20Airbnb%20-%20FutureStack14-THBtcS7Wwss.mp3</link>
+      <guid isPermaLink="false">2e71650607c8c12589c8fe133cf4d2811d8b3ab3</guid>
+      <pubDate>Thu, 26 Feb 2015 00:37:23 -0800</pubDate>
+      <itunes:duration>1861</itunes:duration>
+    
+    </item>
+  
+    <item>
+      <title>Talks@Coursera - A_B testing @ Internet Scale-4LNk4ZqQIf0.mp3</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="https://github.com/aok1425/podcasts/raw/master/Talks@Coursera%20-%20A_B%20testing%20@%20Internet%20Scale-4LNk4ZqQIf0.mp3" length="33565629" type="audio/mp3"/>
+      <link>https://github.com/aok1425/podcasts/raw/master/Talks@Coursera%20-%20A_B%20testing%20@%20Internet%20Scale-4LNk4ZqQIf0.mp3</link>
+      <guid isPermaLink="false">462b23d89979d9c26d91b44d08464df2b1234f70</guid>
+      <pubDate>Sat, 13 Sep 2014 23:59:58 -0700</pubDate>
+      <itunes:duration>3799</itunes:duration>
     
     </item>
   
